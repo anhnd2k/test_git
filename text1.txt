@@ -18,3 +18,5 @@ change from cicd
 dev change text1
 
 dev cghange ge text 1 commit 2
+
+dev commit sau khi merge cicd 1
