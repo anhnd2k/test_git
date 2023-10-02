@@ -24,3 +24,5 @@ dev commit sau khi merge cicd 1
 dev commit sau khi merge cicd 2
 
 dev commit sau khi merge cicd 3
+change from cicd 2
+
