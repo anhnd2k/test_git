@@ -33,3 +33,5 @@ dev commit sau khi merge cicd 4
 
 dev commit sau khi merge cicd 5
 
+dev commit sau khi merge cicd 6
+
