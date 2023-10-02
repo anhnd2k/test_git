@@ -1,1 +1,3 @@
 text 3 change
+
+text 3 change from dev_commit_1
